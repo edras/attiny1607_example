@@ -83,6 +83,7 @@
       <itemPath>attiny1607_example.mc3</itemPath>
     </logicalFolder>
     <itemPath>dataview.dvws</itemPath>
+    <itemPath>README.md</itemPath>
   </logicalFolder>
   <sourceRootList>
     <Elem>.</Elem>
